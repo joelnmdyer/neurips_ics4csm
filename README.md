@@ -23,3 +23,15 @@ In the above, set
 - `DIRNAME` to the folder in which you'd like to dump the output of the script
 
 Omitting the `--seeds` argument will make the seeds default to `list(range(5))`, which is what was used to generate the 5-fold cross-validation results reported in the paper.
+
+## Citation
+
+```
+@inproceedings{dyer2024a,
+  publisher = {Neural Information Processing Systems Foundation},
+  title = {Interventionally consistent surrogates for complex simulation models},
+  author = {Dyer, J and Bishop, N and Felekis, Y and Zennaro, FM and Calinescu, A and Damoulas, T and Wooldridge, M},
+  year = {2024},
+  organizer = {Neural Information Processing Systems (NeurIPS 2024)}
+}
+```
